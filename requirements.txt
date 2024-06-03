@@ -1,0 +1,6 @@
+discord_webhook
+string
+random
+time
+requests
+colorama
