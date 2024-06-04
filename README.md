@@ -1,6 +1,9 @@
 # Discord-Webhook-MESSAGE-SPAMMER
 Spams a selected Message infinitely with a selected delay
 
+# How to get a WEBHOOK LINK!
+Go to a server which you have permissions on, then click server settings, Integrations, Webhooks and new Webhook, then just copy the Link and put it in the Script!
+
 # Using Guide!
 First, Install the requirements by going to the folder with requiremnts text file then continue by doing the command `pip install requirements.txt`
 
