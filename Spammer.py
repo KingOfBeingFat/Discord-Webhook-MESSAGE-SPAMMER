@@ -43,7 +43,7 @@ def webhkspammer():
     delay = float(input(Fore.RED + "---> Enter The Delay Between Messages: "))
 
     while True:
-        print(Fore.BLUE + "Sending --> " + message)
+        print(Fore.BLUE + "Sending ==> " + message)
         try:
             time.sleep(delay)
             response = requests.post(webhook, json={'content': message})
